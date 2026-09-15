@@ -8,28 +8,28 @@ Skills for Claude built from books. Each one carries a single author's method, d
 |---|---|---|
 | **glavred-skill** | Reviews and edits social media posts by the method of Maxim Ilyahov. Reports findings level by level (meaning, delivery, wording, format) with a quote from the post and the rule behind each one, or rewrites the post keeping the author's facts and voice. Works in Russian | [plugins/glavred-skill](plugins/glavred-skill/README.md) |
 
-Every skill is a plugin of its own, so you install only the ones you need.
+Every method is a plugin of its own, so you install only the ones you need.
 
 ## Installation
 
-The plugins are listed in the [Londeren marketplace](https://github.com/Londeren/claude-plugins#installation), which describes every install route: Claude Code, claude.ai, the skills.sh CLI and a manual copy. In Claude Code:
+The plugins are listed in the [Londeren marketplace](https://github.com/Londeren/claude-plugins#installation), which describes every install route: Claude Code, claude.ai, the skills.sh CLI and a manual copy. In Claude Code, with a plugin name from the table above:
 
 ```
 /plugin marketplace add Londeren/claude-plugins
-/plugin install glavred-skill@Londeren
+/plugin install <plugin>@Londeren
 ```
 
 ## Repository layout
 
 ```
-plugins/<name>/                 - a plugin, ships to users
+plugins/<method>/               - a plugin, ships to users
   .claude-plugin/plugin.json    - plugin manifest
   skills/<skill>/               - the skill itself; the folder name is the skill name
     SKILL.md                    - entry point, the only file loaded on activation
     references/                 - reference sheets, read on demand
     PROVENANCE.md               - how the skill was built, never loaded
   README.md                     - the plugin's own documentation
-pipeline/<skill>/               - the build: source overview, extraction catch,
+pipeline/<method>/              - the build: source overview, extraction catch,
                                   validation with rejection reasons, evals; not shipped
 docs/                           - plans and decisions, not shipped
 CLAUDE.md                       - instructions for Claude Code working on this repository

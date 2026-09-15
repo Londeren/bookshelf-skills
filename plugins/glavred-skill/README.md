@@ -11,12 +11,7 @@
 
 Если в сводке установки написано `Run /reload-plugins to activate.` — выполнить эту команду.
 
-Или напрямую, без маркетплейса: склонировать репозиторий и подключить скилл к Claude Code:
-
-```bash
-git clone https://github.com/Londeren/bookshelf-skills.git
-mkdir -p ~/.claude/skills && ln -s "$PWD/bookshelf-skills/plugins/glavred-skill/skills/glavred" ~/.claude/skills/glavred
-```
+Остальные способы установки (claude.ai, skills.sh, ручное копирование) описаны в [README маркетплейса](https://github.com/Londeren/claude-plugins#installation).
 
 **Разбор** — находки по уровням (смысл → подача → текст → формат) с серьёзностью, цитатой из поста и правилом метода. **Рерайт** — диагностика, переписанная версия, список правок; факты и голос автора сохраняются.
 
