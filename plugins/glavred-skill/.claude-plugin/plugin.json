@@ -1,14 +1,14 @@
 {
   "name": "glavred-skill",
   "displayName": "Главред",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Ревью и редактура постов для соцсетей по методу Максима Ильяхова",
   "author": {
     "name": "Londeren",
     "url": "https://github.com/Londeren"
   },
-  "homepage": "https://github.com/Londeren/glavred-skill",
-  "repository": "https://github.com/Londeren/glavred-skill",
+  "homepage": "https://github.com/Londeren/bookshelf-skills/tree/main/plugins/glavred-skill",
+  "repository": "https://github.com/Londeren/bookshelf-skills",
   "license": "MIT",
   "keywords": [
     "editing",

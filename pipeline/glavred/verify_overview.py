@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Сверка числовых утверждений pipeline/BOOK_OVERVIEW.md с источниками в tmp/.
+"""Сверка числовых утверждений pipeline/glavred/BOOK_OVERVIEW.md с источниками в tmp/.
 
 Запуск из корня репозитория:
 
-    python3 pipeline/verify_overview.py        полный вывод
-    python3 pipeline/verify_overview.py -q     только несовпадения и итог
+    python3 pipeline/glavred/verify_overview.py        полный вывод
+    python3 pipeline/glavred/verify_overview.py -q     только несовпадения и итог
 
 Как устроено. Для каждого утверждения ОЖИДАЕМОЕ число берётся из текста самого
 артефакта регулярным выражением по нужному разделу, ФАКТИЧЕСКОЕ получается
@@ -31,8 +31,8 @@ import shlex
 import subprocess
 import sys
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ARTIFACT = os.path.join(ROOT, "pipeline", "BOOK_OVERVIEW.md")
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+ARTIFACT = os.path.join(ROOT, "pipeline", "glavred", "BOOK_OVERVIEW.md")
 
 SRC = {
     "S1": "tmp/Пиши, сокращай 2025_ Как создавать сильный текст mineru.md",
@@ -74,7 +74,7 @@ def preflight():
         print(
             "\nКаталог tmp/ в .gitignore и в репозиторий не попадает — это нормально.\n"
             "Положите исходные .md в tmp/ под этими именами и запустите снова:\n"
-            "  python3 pipeline/verify_overview.py",
+            "  python3 pipeline/glavred/verify_overview.py",
             file=sys.stderr,
         )
         sys.exit(2)
@@ -457,7 +457,7 @@ def main():
     load_artifact()
     build_checks()
 
-    print("Сверка чисел: pipeline/BOOK_OVERVIEW.md против источников в tmp/")
+    print("Сверка чисел: pipeline/glavred/BOOK_OVERVIEW.md против источников в tmp/")
     print("Ожидаемое берётся из текста артефакта, фактическое — из источника.")
     print("")
 
