@@ -2,7 +2,7 @@
 
 The audit record of the build: the source map and its tiers, the exports the skill was built from, the pipeline statistics, the gate waiver, the deviations from the pipeline, and what the checks did not cover. An agent applying the skill does not need this file; the working conventions of the sheets are described in `SKILL.md` next to it.
 
-Built with the book-to-skill pipeline, version 1.0.1 (phases 0–3: source overview → extraction → validation → assembly). Phase 0 on 2026-09-15, the source map confirmed on 2026-09-16; phase 1 on 2026-09-16; phase 2 on 2026-09-20; phase 3, the assembly recorded here, on 2026-09-25. Phase 4 (evals) had not run when this record was written; its results are added below when it has.
+Built with the book-to-skill pipeline, version 1.0.1 (phases 0–3: source overview → extraction → validation → assembly). Phase 0 on 2026-09-15, the source map confirmed on 2026-09-16; phase 1 on 2026-09-16; phase 2 on 2026-09-20; phase 3, the assembly recorded here, on 2026-09-25. Phase 4, the evals, on 2026-09-25, recorded in its own section below.
 
 ## Source map and tiers
 
@@ -72,7 +72,36 @@ Recorded in the decisions file of the build as they happened and copied here as 
 - Anchors were checked mechanically, by exact substring search over the original files, without normalisation; a sample of anchors was also read in context by the self-check. The examples and caveats of the rules were drawn by the sheet authors from the validated units, their merged duplicates and the case units, and were checked against the units by an independent reviewer, not against the books line by line: a figure that an extractor misread in phase 1 and that survived validation would survive here too.
 - The wording of every rule is a synthesis by a sheet author. An independent reviewer read all sixteen sheets and checked 135 rules field by field against their units (questions 2, 3, 5 and 6 of the pipeline's self-check): it found 5 additions not in the units (a hinge condition on the channel order, a keep/drop reading of a benchmark, a recalibration step), 3 rules written as description, 19 example or caveat fields to fill or to mark empty, 8 rules not usable without the source, and 13 other places (a truncated address, cross-references, a gloss inside an anchor line, missing video years); every finding was closed in the text. The other 347 rules were not re-read field by field against their units.
 - The tier-3 material comes from auto-captioned video transcripts: oral speech, no punctuation, terms occasionally misheard; some of its elements are said once in the whole corpus and are marked so in the sheet.
-- The line counts and the description length were checked mechanically; triggering of the description has not been tuned, which is phase 4 work.
-- Phase 4 (evals) had not run when this record was written.
+- The line counts and the description length were checked mechanically; the triggering of the description was measured in phase 4 (below) on eighteen requests and found clean on the first iteration, so the description was never tuned: a description that has not been pushed to fail has not shown where it fails.
+
+## Phase 4: the evals (2026-09-25)
+
+Before the evals, `SKILL.md` was audited by the prompt-writer skill in its "improve an existing prompt" mode. The audit changed how the agent applies the method, not what the method says: two hard limits in the preamble (a rule is cited only from this file or an open sheet; the user's facts are never changed or added to), with the usual excuses named and closed; a form for answering at a boundary; a test at the entry of the diagnosis, a tie-breaker and an unconditionality marker; the check before handing over as four questions with a presumption of defect; the registers should, can and prefers in place of "Read ONLY"; a tie-breaker on severity; the form of a review of sound material. The core, the routing table, the sources block and the paragraph on the fields of a rule were not touched; no rule, threshold or example was added; the description was not changed. Examples were deliberately not added to `SKILL.md`, a departure from prompt-writer's checklist: the examples of the method live in the Bad → Good fields of the sheets.
+
+**The set.** 16 cases and 6 trigger cases, in `pipeline/hormozi/evals/eval-set.md`: five situations for the advisor (S), five reviews of finished material (M), of which one is the apply case (a rewrite), four boundaries (B: a shrinking market, hiring as a topic, sound material, freemium for a service), two off-topic requests (O: code, a lease clause), two positive and four negative trigger cases; seven of the S, M and B requests in Russian, none naming the method or its constructs; 3–5 assertions per case, 77 in all for S, M, B and O. All material is synthetic. **No case comes from the first consumer's own practice**, a departure from the pipeline's requirement that about half the requests be real tasks from the user's practice, decided at the start of the build on 2026-09-15 (no data of the consumer's business enters the build) and recorded here with the results: the delta below is measured on written cases, not on the consumer's work, and the first real use of the skill is the measurement this set could not make.
+
+**How it was run.** Two independent Opus subagents per case, one with the verbatim body of `SKILL.md` and the paths of the sheets, one with the request alone; graders with the pipeline's prompt, batched so that the two arms of one case never met one grader; trigger cases against four real distractor descriptions, three runs each with the skill at three positions; a script for the existence of every cited `NN.M`, five graders for the fit of 371 citations to their places. Everything is in `pipeline/hormozi/evals/results.md`, both outputs of every case included.
+
+**Thresholds and facts.** Set before the first run and not moved.
+
+| threshold | requirement | fact | result |
+|---|---|---|---|
+| With the skill | ≥ 80 % of assertions | 72/77 = 93.5 % | passed |
+| Delta over the baseline | ≥ 20 pp | +51.9 pp (baseline 32/77 = 41.6 %) | passed |
+| Baseline | < 70 % | 41.6 % | passed |
+| Invented rules, existence | 0 | 372 references, 0 not in the sheets | passed |
+| Invented rules, fit | 0 misplaced | 371 pairs; 11 flagged by the graders on single sentences, all 11 fit on the whole step; 0 misplaced | passed, raw count stated |
+| Invented facts in the apply case | 0 | 1 in both runs: a loyalty-discount figure derived from the two prices of the request; the term chosen for the user in the first run became a placeholder after the fix | **not passed** |
+| Sound material without a false 🔴 | 0 🔴 | 0 🔴 (4 🟡, 1 🟢), verdict "works" | passed |
+| Triggers, positive | ≥ 5 of 6 | 6 of 6 | passed |
+| Triggers, negative | 12 of 12 | 12 of 12 | passed |
+
+Without the two off-topic cases, which score the same in both arms by design: 64/69 = 92.8 % against 24/69 = 34.8 %, +58.0 pp. The tuning set of the description (12 positive, 6 negative requests, half held out) came back 60 of 60 correct, so no version of the description other than the committed one exists.
+
+**Fixes and the rerun.** Three fixes to `SKILL.md`, none to a sheet, none restoring a rejected unit: the entry test now names a pasted money model as a material; a value the method leaves to the user's choice enters a rewrite as a placeholder with the rule's range; an answer resting on the enterprise-value sheet states the strength of that source. Rerun of the four cases with a failed assertion plus one control, the skill arm only: 23/25; two assertions still fail, one of them an assertion that collides with rule 15.22 of the sheet (the operator's pay is the sheet's own mechanic) and was not fixed, the other the derived discount figure above.
+
+**What the checks did not cover.** The delta is measured on synthetic cases, two per topic at most, and says nothing about topics the set does not touch: lead magnets and the content channel (sheet 04), the ad frameworks and the Kaleidoscope (07), the setter's hunt mode (08), continuity offers (12), the fast-cash play (13), referrals (14), the lead-getting employees and wealth alchemy (15). Every assertion was graded by one grader; no assertion was graded twice, so the grader's own variance is unmeasured. The graders saw single sentences in the fit pass, and the reading of the 11 flagged pairs on the whole step is the orchestrator's, checkable against the pair files kept in the build's working directory but not published. The trigger runs used four distractors that are far from the skill's topic; a competing business skill was not among them. The reruns measured one run per case, so a pass or a fail on a rerun is one sample. The baseline is one model, Opus, and the with-skill arm the same model: a different model would move both figures.
+
+Agent runs of phase 4: 77, all on Opus (32 case runs, 9 graders, 5 rule-fit graders, 24 trigger runs, 5 rerun case runs, 2 rerun graders). The build as a whole, phases 0–4: 167.
 
 The working build (the directory `pipeline/hormozi/` of the repository [Londeren/bookshelf-skills](https://github.com/Londeren/bookshelf-skills): the source overview and map, the catch of extraction, the validation with the reasons for every rejection, the sheet map) is published with the skill. When the skill is reworked, what is missing is raised from there.
