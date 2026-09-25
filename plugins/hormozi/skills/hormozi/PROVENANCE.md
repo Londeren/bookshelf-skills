@@ -26,8 +26,8 @@ Three tiers. Where formulations diverge the upper tier wins; the video transcrip
 | 2 | $100M Playbook: GOATed Ads (2025) | `playbook-goated-ads.md` | 2026-08-10 |
 | 3 | Video "How to Build a Business That Runs Without You" (2025), the lecture and the answer on enterprise value only | `video-business-that-runs-without-you.md` | 2026-08-10 |
 | 3 | Video "How to Make Money So Fast It Feels ILLEGAL" (2024), the wealth-alchemy part only | `video-make-money-so-fast.md` | 2026-08-10 |
-| 3 | Video "13 Years of No BS Business Advice in 79 Mins", point 16 only | `video-13-years-no-bs-business-advice.md` | 2026-08-10 |
-| 3 | Video "No BS Business Advice to Get Rich in 2026", the overextension section only | `video-no-bs-business-advice-2026.md` | 2026-08-10 |
+| 3 | Video "13 Years of No BS Business Advice in 79 Mins" (2024), point 16 only | `video-13-years-no-bs-business-advice.md` | 2026-08-10 |
+| 3 | Video "No BS Business Advice to Get Rich in 2026" (published 2024), the overextension section only | `video-no-bs-business-advice-2026.md` | 2026-08-10 |
 
 The exports come from a claude.ai project export; the project was last updated 2026-08-09 and the export files are dated 2026-08-10. The file names above are the plain names the sources were copied under for the build; the full texts are not in the repository. While the exports exist locally a disputed unit can be re-checked against them; after that there is nothing to re-check against. Not used: the seven-hour Money Models live launch (a retelling of the book), two sales courses (covered by the Closer handbook), thirty more transcripts (the same ideas spoken, with repetition), and the consumer's project prompt (not a source of the method).
 
@@ -70,7 +70,7 @@ Recorded in the decisions file of the build as they happened and copied here as 
 ## What the checks did not cover
 
 - Anchors were checked mechanically, by exact substring search over the original files, without normalisation; a sample of anchors was also read in context by the self-check. The examples and caveats of the rules were drawn by the sheet authors from the validated units, their merged duplicates and the case units, and were checked against the units by an independent reviewer, not against the books line by line: a figure that an extractor misread in phase 1 and that survived validation would survive here too.
-- The wording of every rule is a synthesis by a sheet author; the self-check sampled the sheets for rules not in the source, for retelling and for empty fields, and closed what it found; it did not re-read every rule against its unit.
+- The wording of every rule is a synthesis by a sheet author. An independent reviewer read all sixteen sheets and checked 135 rules field by field against their units (questions 2, 3, 5 and 6 of the pipeline's self-check): it found 5 additions not in the units (a hinge condition on the channel order, a keep/drop reading of a benchmark, a recalibration step), 3 rules written as description, 19 example or caveat fields to fill or to mark empty, 8 rules not usable without the source, and 13 other places (a truncated address, cross-references, a gloss inside an anchor line, missing video years); every finding was closed in the text. The other 347 rules were not re-read field by field against their units.
 - The tier-3 material comes from auto-captioned video transcripts: oral speech, no punctuation, terms occasionally misheard; some of its elements are said once in the whole corpus and are marked so in the sheet.
 - The line counts and the description length were checked mechanically; triggering of the description has not been tuned, which is phase 4 work.
 - Phase 4 (evals) had not run when this record was written.

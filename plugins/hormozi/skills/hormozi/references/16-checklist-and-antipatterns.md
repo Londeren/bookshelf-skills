@@ -66,7 +66,7 @@ Read the material against its sheet in this order; findings quote the material a
 - **An ad or a creative:** platform and audience 06.1–06.4; callout, value, CTA 06.5–06.14; hooks and awareness 06.19–06.26; the framework it follows 07.7–07.26; the rules across frameworks 07.27–07.35; the checklist 07.36.
 - **A nurture setup:** availability 08.2–08.4; speed 08.5–08.9; personalization 08.10–08.15; volume 08.16–08.18; Hunt Mode 08.19–08.28; execution 08.29–08.30.
 - **A sales script or a call:** preparation 09.1–09.4; tone 09.5–09.8; introduction 09.9–09.10; discovery 09.11–09.16; the offer 09.17–09.21; objections 09.22–09.26; BAMFAM 09.27; the scripts as moves 09.28–09.32.
-- **A money model:** the sequence and the thirty-day test 10.1–10.9, 10.35–10.37, 01.18–01.23; the attraction offer 10.10–10.34; upsells 11.1–11.16; downsells 11.17–11.34; continuity 12.1–12.30.
+- **A money model:** the sequence and the thirty-day test 10.1–10.9, 10.35–10.37, 01.18–01.23; the attraction offer 10.10–10.34; upsells 11.1–11.16; downsells 11.17–11.33; free with alternate revenue stream 11.34; continuity 12.1–12.30.
 - **A price or a price raise:** the rules of pricing 13.1–13.6; the plays 13.7–13.12; the raise and the letter 13.13–13.20; the Crazy Eight 13.21–13.26; a cash play 13.27–13.34.
 - **A retention plan:** why 14.1–14.3; activation 14.4–14.8; contact and community 14.9–14.14; payment terms and saves 14.15–14.18; referrals 14.19–14.30.
 - **The business as an asset:** why and the levers 15.1–15.3; the four steps and the self-inventory 15.4–15.8; from doing to leading 15.9–15.10; marketing without the founder 15.11; employees who get leads 15.12–15.17; wealth alchemy 15.18–15.20; overextension and the tests 15.21–15.22.
@@ -84,33 +84,33 @@ Read the material against its sheet in this order; findings quote the material a
 #### 16.1. A script is one part of a larger process, calibrated for a known brand
 - **Rule:** Do not judge or copy a sales script on its own: an element missing from one script is usually covered elsewhere in the process, and the ACQ scripts assume that many prospects already know the company, so part of the selling happened before the call.
 - Why it works: The inbound closing script is light on the pain cycle because the prospect has to watch one or two videos before the call, so that section was trimmed without hurting close rates; other variables have already made the horse more likely to drink.
-- Bad → Good: Lifting one script out of its process, or into a company the prospect has never heard of → the script copied together with the pre-call videos, the setter's texts and the reminders around it, and recalibrated where the brand has done no selling yet (sheet 08, sheet 09).
+- Bad → Good: Lifting one script out of its process, or into a company the prospect has never heard of → the script copied together with the pre-call videos, the setter's texts and the reminders around it (sheet 08, sheet 09), and not expected to work as it stands for a brand the prospect has never heard of (09.2).
 - When not to apply: The author's caveat is explicit: his scripts suit a known brand and are not calibrated for a company the prospect has never heard of.
 - Anchor: «These scripts operate together as part of a larger sales process. So variables that aren’t covered in one are likely covered in another part of the process.» — ACQ Closer Handbook (2025), Appendix: Script Bank
 
 #### 16.2. The Ad Kaleidoscope needs an existing winner
-- **Rule:** Do not apply the Ad Kaleidoscope until at least one ad has been run and won; it permutes winners and cannot create the first one. With no winner, make ads from the 20 ad frameworks first (07.7–07.26).
+- **Rule:** Do not apply the Ad Kaleidoscope until at least one ad has been run and won; it permutes winners and cannot create the first one. With no winner, make ads from the 20 ad frameworks first (07.7–07.26). The working rule is 07.1.
 - Why it works: Ads that do not exist yet cannot be optimized.
 - Bad → Good: No example in the source.
 - When not to apply: No special caveats in the source.
 - Anchor: «You can’t optimize ads that don’t exist yet. Duh. Don’t worry, I’ve got you covered there.» — ACQ Advertising Handbook (2025), How To Use The Ad Kaleidoscope
 
 #### 16.3. Freemium is an acquisition strategy for near-100 percent margins, not a business model
-- **Rule:** Treat freemium as an acquisition strategy, never as the business model, and only in a business with close to 100 percent incremental margins — software or media; the free thing has to be free and valuable enough to spread but not so valuable that customers use it without upgrading, and it has no discount variation.
+- **Rule:** Treat freemium as an acquisition strategy, never as the business model, and only in a business with close to 100 percent incremental margins — software or media; the free thing has to be free and valuable enough to spread but not so valuable that customers use it without upgrading, and it has no discount variation. The working rule is 10.30, 10.31.
 - Why it works: The author calls the distinction very important and freemium one of the most dangerous acquisition strategies: he has seen it done incorrectly by really smart people more often than correctly, and cut the chapter because it did not apply to enough businesses.
 - Bad → Good: No example in the source.
 - When not to apply: The author's own scope: software or media with near-100 percent incremental margins; elsewhere the front end is a free or discount wrapper (sheet 03) or another attraction offer (sheet 10).
 - Anchor: «points to understand about freemium is that it is not a business model, it is an acquisition» — $100M Series: Lost Chapters (2025), Attraction Offer: Freemium, Description and Summary Points
 
 #### 16.4. The availability finding holds for appointment-based businesses
-- **Rule:** Apply the rule that availability is the biggest lever on shows only to appointment-based businesses, where a lead books a time and shows up for it.
+- **Rule:** Apply the rule that availability is the biggest lever on shows only to appointment-based businesses, where a lead books a time and shows up for it. The working rule is 08.2.
 - Why it works: On an absolute basis the businesses with the most time slots had the most schedules, shows and purchases; if leads do not schedule they cannot show, and if they cannot show they cannot buy.
 - Bad → Good: No example in the source.
 - When not to apply: No special caveats in the source.
 - Anchor: «The data was crystal clear for appointment-based businesses-–if leads do not schedule,» — $100M Playbook: Lead Nurture (2025), Pillar I: Availability
 
 #### 16.5. Downsell ladders need a one-on-one setting; a no through the whole ladder is a trust problem
-- **Rule:** Run the step-by-step downsell ladder in person, over the phone or in any one-on-one setting, not when selling off a page digitally; and when the prospect says no through the whole ladder, treat it as a trust and sales problem, not as an offer problem.
+- **Rule:** Run the step-by-step downsell ladder in person, over the phone or in any one-on-one setting, not when selling off a page digitally; and when the prospect says no through the whole ladder, treat it as a trust and sales problem, not as an offer problem. The working rule is 10.8.
 - Why it works: One-on-one selling affords the flexibility to match the buying power of the prospect with your ability to solve their needs on their budget; selling off a page you do not have that luxury.
 - Bad → Good: No example in the source.
 - When not to apply: The author marks sales skill itself as beyond the scope of the money-model books; the trust problem is worked in sheet 09.
@@ -124,7 +124,7 @@ Read the material against its sheet in this order; findings quote the material a
 - Anchor: «űCommon activation points: they are different for every company. But here» — $100M Playbook: Retention (2025), Churn Checklist #1: Figure Out Your Activation Points
 
 #### 16.7. Audience metrics are read only against consistent inputs, and over years
-- **Rule:** Do not read the growth numbers of a content channel until the posting cadence and the ask cadence have been held constant, and measure audience building in years of consistent output, not months.
+- **Rule:** Do not read the growth numbers of a content channel until the posting cadence and the ask cadence have been held constant, and measure audience building in years of consistent output, not months. The working rule is 04.19.
 - Why it works: We can only control inputs; measuring outputs is only useful if we are consistent with inputs. The author trusted his podcast feedback because he did the same thing every week for years: twice a week for four years before the Top 100 list, a Top 10 US business podcast only in its fifth year.
 - Bad → Good: Judging content after a few months of changing cadence → the cadence fixed first, then the numbers read, with the author's own case as the timescale (2023).
 - When not to apply: No special caveats in the source.
@@ -147,7 +147,7 @@ Read the material against its sheet in this order; findings quote the material a
 - Anchor: «Many entrepreneurs believe that charging “too much” is bad. The reality is that, yes, you should never charge more than your product is *worth*.» — $100M Offers (2021), ch. 6 Value Offer: The Value Equation
 
 #### 16.10. Expecting the first offer to make the profit; one offer and no downsell
-- **Rule:** Do not build the business on the assumption that the thing you sell the most is the thing you make the most profit on, and do not run a single offer with nothing after a no: the profit is made on the second, third and fourth offers, and a downsell picks up the people who said no.
+- **Rule:** Do not build the business on the assumption that the thing you sell the most is the thing you make the most profit on, and do not run a single offer with nothing after a no: the profit is made on the second, third and fourth offers, and a downsell picks up the people who said no. The working rule is 11.1.
 - Why it works: A burger shop making $0.25 on a $2.00 burger would need about 10,000 burgers a day, and if McDonald's did not upsell fries and soda there would not be a McDonald's; with a Trial With Penalty downsell, three sales in ten become six (2025).
 - Bad → Good: One offer, everyone who says no is lost → three of ten close, a downsell picks up another four, and three of those upsell after the trial (example — $100M Money Models, Trial With Penalty).
 - When not to apply: No special caveats in the source.
@@ -156,7 +156,7 @@ Read the material against its sheet in this order; findings quote the material a
 #### 16.11. Discounting in response to "it costs too much"
 - **Rule:** Do not discount or switch to cheaper stuff when a prospect says the price is too high; change how they pay, with a payment plan, and keep the full price (11.20).
 - Why it works: A huge percentage of the time "it costs too much" really means "this costs too much up front"; people think discounts work because the customer pays less for the product, when really it is because they pay less in the moment.
-- Bad → Good: A price cut the moment the prospect balks → a payment plan that gets the buyer and keeps the full price.
+- Bad → Good: A price cut the moment the prospect balks → the seller asks when she gets paid, offers half down now and half on the first, then a third down today across three payments, then asks what she actually can do; her card is charged on the second, and the price never moves (11.19, 11.20).
 - When not to apply: No special caveats in the source.
 - Anchor: «will immediately discount or sell cheaper stuff *just to get people to» — $100M Money Models (2025), Payment Plan Downsells, Description
 
@@ -168,7 +168,7 @@ Read the material against its sheet in this order; findings quote the material a
 - Anchor: «was the same So being “non-free” offered no advantage in close rates or average ticket size» — $100M Series: Lost Chapters (2025), Free Promotions, Free Brings Broke People Myth
 
 #### 16.13. Relying on a better product instead of outspending; "customers cost too much"
-- **Rule:** Do not count on product quality to win customers instead of on the ability to outspend competitors for them, and do not conclude that customers cost too much once the real cost of working and selling the leads is counted: acquisition costs what it costs, and the job is to make more money from the same customers.
+- **Rule:** Do not count on product quality to win customers instead of on the ability to outspend competitors for them, and do not conclude that customers cost too much once the real cost of working and selling the leads is counted: acquisition costs what it costs, and the job is to make more money from the same customers. The working rule is 10.6.
 - Why it works: You can make a product as good as you want, but if you cannot outspend your competition, the competition will steal your product and your potential customers.
 - Bad → Good: No example in the source.
 - When not to apply: No special caveats in the source.
@@ -191,26 +191,26 @@ Read the material against its sheet in this order; findings quote the material a
 #### 16.16. Reading "new" as "start from zero"; retiring old winners
 - **Rule:** Do not treat "a new ad" as an ad built from scratch — new only has to mean new to the viewer — and do not drop the previous winners once a new idea produces one: the new winner joins the pool being permuted.
 - Why it works: Consumers have a far lower threshold of new than the advertiser does, so a variation of what already worked reads as new while keeping the thing that made it convert; a new winner is yet another source of permutations, not a replacement.
-- Bad → Good: No example in the source.
+- Bad → Good: The Skool-cap ad permuted into neon, plexus, purple, rainbow, retro, white and yellow versions, each performing like the original (07.6).
 - When not to apply: No special caveats in the source.
 - Anchor: «New does not mean “start from zero”. New means new to the viewer. Like the Henry Ford story, consumers have a far lower threshold of “new” than you do.» — ACQ Advertising Handbook (2025), What The Ad Kaleidoscope Is
 
 #### 16.17. Confusing automation with one-to-many
 - **Rule:** Do not count an automated blast as one-to-many communication because a machine sends it: emailing a 10,000-person list once is one-to-one done really fast, not a public post.
 - Why it works: Automation only means some of the work is done by machines; the nature of the communication stays the same, and the Core Four are defined by warm or cold and one-to-one or one-to-many (04.1).
-- Bad → Good: No example in the source.
+- Bad → Good: Emailing a 10,000-person list once and calling it one-to-many → the same email counted as one-to-one done really fast by a machine (04.1).
 - When not to apply: No special caveats in the source.
 - Anchor: «confusing. Don't let it. Automation just means some of the work is done» — $100M Leads (2023), Section III: Get Leads
 
 #### 16.18. Reading complaints as lost sales; adding expenses to justify a raise
 - **Rule:** Do not treat customer grumbling about a new price as proof that they will not buy, and do not incur expenses you had not planned in order to justify a price increase.
 - Why it works: People moan, but they still buy; wanting something for less does not mean they will not buy it for more. Added expenses negate the benefit of the raise, the extra profit you would have got.
-- Bad → Good: No example in the source.
+- Bad → Good: A prospect who heard a cheaper number grumbles about the new price → the answer that 96% of existing customers agreed to it and that it is the cheapest it will ever be; people grumble and buy anyway (13.14, 13.18).
 - When not to apply: No special caveats in the source.
 - Anchor: «ter time to get started.” People moan, but they still buy. Just because someone wants something» — $100M Playbook: Price Raise (2025), What To Do About Incoming Customers
 
 #### 16.19. A price that does not scale with the cost to fulfil
-- **Rule:** Do not charge a flat low price where the cost to fulfil grows with the customer's success; raise the price so the biggest customers stop being the ones that lose money.
+- **Rule:** Do not charge a flat low price where the cost to fulfil grows with the customer's success; raise the price so the biggest customers stop being the ones that lose money. The working rule is 13.15.
 - Why it works: In the Shopify-competitor case the more sales their customers made the more it cost to fulfil, so their biggest customers lost them the most money; the choice was to fire them or raise prices.
 - Bad → Good: A flat $30 a month while fulfilment grows with each customer's sales → a raise from $30 to $3,000 that lost exactly one customer of 300 (2025).
 - When not to apply: No special caveats in the source.

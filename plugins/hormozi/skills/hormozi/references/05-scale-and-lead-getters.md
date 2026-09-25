@@ -19,7 +19,7 @@ Open this sheet when a business already gets engaged leads from at least one Cor
 - Anchor: «The rule of 100 is simple. You advertise your stuff by doing 100» — $100M Leads (2023), Core Four On Steroids, More
 
 #### 05.3. One test per week per platform
-- **Rule:** Every Monday start one split test per platform, placed at the step where most leads drop off (the constraint); the next Monday pick the winners, write the results into a log of all tests, and design the next test to beat the current best version; if four tries (or one month) cannot beat the version you run, move on to the next constraint.
+- **Rule:** Every Monday start one split test per platform, placed at the step where most leads drop off (the constraint); the next Monday pick the winners, write the results into a log of all tests, and design the next test to beat the current best version; if four tries (or one month) cannot beat the version you run, move on to the next constraint (01.7, 01.8).
 - Why it works: Changing several things at once on one platform means you never learn what worked, and steps affect each other; one test a week forces you to prioritise, a week is long enough to see whether the change is a real improvement, and the log means the next attempt starts many improvements later instead of at square one.
 - Bad → Good: Several changes on one platform in the same week → a change at step one can raise optins while applications fall, and nobody can tell which change did what → one split test per platform per week, its result logged.
 - When not to apply: One week is the author's calibration for his team size and ad spend, not a universal length: too short gives too little data, too long wastes time you could spend on the next constraint.
@@ -45,21 +45,21 @@ Open this sheet when a business already gets engaged leads from at least one Cor
 - **Rule:** On a first pass through the Core Four, start cold outreach only after warm reach outs have given you reps and posted content has grown your warm audience — never as the first advertising method — and pick it up when you run out of people to advertise to or simply want more leads.
 - Why it works: Cold outreach is the more advanced cousin of warm outreach and sits on its foundation; warm outreach is the cheapest and easiest way to find people interested in what you sell, while cold outreach frees you from the size of your warm audience, lets you pick your targets and makes lead flow more predictable.
 - Bad → Good: Skipping one-to-one contact with the people who already know you, as most businesses do → warm reach outs for reps, then content to grow the warm audience, then cold outreach (example — $100M Leads, #1 Warm Outreach).
-- When not to apply: An operator who already has those reps chooses the channel after warm outreach by the resource he has more of (05.8); the trigger for cold outreach is an exhausted warm audience or a wish for more volume and predictability, not a liking for the channel.
+- When not to apply: The author's own choice when building a business, after warm outreach, is 05.8; the trigger for cold outreach is an exhausted warm audience or a wish for more volume and predictability, not a liking for the channel.
 - Anchor: «reach outs. Get some reps. Post some content to grow your warm audience.» — $100M Leads (2023), #3 Cold Outreach, Three Problems Strangers Create→Solved
 
 #### 05.7. First pass: paid ads last
 - **Rule:** When learning the Core Four, take up paid ads last, after warm outreach, content and cold outreach.
 - Why it works: Skills from the other three methods transfer to paid ads and shorten the learning curve, and paid ads cost money that the other three will have earned you by then.
 - Bad → Good: No example in the source.
-- When not to apply: An operator who already has the reps and more money than time may go to paid ads right after warm outreach (05.8); a business with neither money to lose nor skills from the other channels is not the place for paid ads yet.
+- When not to apply: Scoped to the order in which to learn the Core Four; the author's own choice when building a business is 05.8. A business with neither money to lose nor skills from the other channels is not the place for paid ads yet.
 - Anchor: «I recommend doing paid ads ]{.calibre3}[last]{.calibre41}[ for two» — $100M Leads (2023), #4 Run Paid Ads Part II, Conclusion
 
-#### 05.8. With reps: the next channel follows the resource you have more of
-- **Rule:** When you already have reps and choose where to put advertising effort after warm outreach, pay with the resource you have more of: more time than money → post content; more money than time → cold outreach or paid ads.
+#### 05.8. Building a business: the next channel follows the resource you have more of
+- **Rule:** When building a business and choosing where to put advertising effort after warm outreach — the author's own practice — pay with the resource you have more of: more time than money → post content; more money than time → cold outreach or paid ads.
 - Why it works: Advertising is paid for with time, money or both, so the method you pick should be paid for with the resource you actually have.
 - Bad → Good: No example in the source.
-- When not to apply: On a first pass without reps, follow the first-pass order instead: warm, then content, then cold (05.6), with paid ads last (05.7).
+- When not to apply: The book's own order for learning the Core Four is 05.6 and 05.7 — warm reach outs, content, cold outreach, paid ads last; the source states both orders and does not choose between them.
 - Anchor: «I have more time than money, I move to posting content. If I have more» — $100M Leads (2023), Core Four On Steroids, Conclusion
 
 #### 05.9. The four lead getters
@@ -72,7 +72,7 @@ Open this sheet when a business already gets engaged leads from at least one Cor
 #### 05.10. Three to six months to crack a lead source
 - **Rule:** Do not drop a chosen lead source after a few losses; allow three to six months to crack a new one, and if you expect it faster, check whether that expectation is reasonable.
 - Why it works: Losing at the beginning is normal; chasing shortcuts can eat a decade before people see they should have picked one strategy and stuck with it, and an obsession with getting rich quick will likely ensure it never happens.
-- Bad → Good: Chasing quick wins and switching advertising methods after a few losses → picking one method and sticking with it through the early losses.
+- Bad → Good: No example in the source.
 - When not to apply: Three to six months is the yardstick of an author for whom this is not his first rodeo; losses inside that window are not evidence that the method failed.
 - Anchor: «in three to six months (and this isn't my first rodeo). So if your» — $100M Leads (2023), Section IV Conclusion
 
@@ -167,7 +167,7 @@ Open this sheet when a business already gets engaged leads from at least one Cor
 ## Advertising in real life
 
 #### 05.23. One Page Advertising Checklist
-- **Rule:** Keep the advertising plan to one page, filled out in about five minutes, in five steps: choose which kind of engaged lead to go after (customers, affiliates, employees or agencies); pick Rule of 100 or Open To Goal and commit to your daily advertising actions; fill out the advertising checklist for that daily action; do that action daily until you can afford to pay someone else to do it; then return to step 1 with employees as the target lead type, repeat until you have the help you need, and scale again.
+- **Rule:** Keep the advertising plan to one page, filled out in about five minutes, in five steps: choose which kind of engaged lead to go after (customers, affiliates, employees or agencies); pick Rule of 100 or Open To Goal and commit to your daily advertising actions; fill out the advertising checklist for that daily action (its fields are given in the book only as images and are not carried in this skill); do that action daily until you can afford to pay someone else to do it; then return to step 1 with employees as the target lead type, repeat until you have the help you need, and scale again.
 - Why it works: A single page leaves little room for excuses, distractions and delusions — you either did the work or you didn't — and the same steps that get customers get the people who then get you customers.
 - Bad → Good: No planning at all, or a one-hundred-page plan that never gets used → one page of action steps, done in about five minutes.
 - When not to apply: The book gives the content of steps #2 and #3 only as images, so the checklist's own fields are not in the source; do not invent them.

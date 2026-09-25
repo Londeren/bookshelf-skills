@@ -41,19 +41,19 @@ Getting the prospect onto the call, no-shows and pipeline work are in sheet 08; 
 - Why it works: Too fast and the prospect cannot track you or senses your stress; too slow and you sound drunk; an average range is easy to measure.
 - Bad → Good: The right speed in training, then speeding up on live calls when excited or stressed → the same range live; otherwise, at worst the prospect attends to your stress instead of your words and you lose trust, attention and the sale, and at best they cannot keep track of what you say and you still lose the sale.
 - When not to apply: The range is an average, not a limit on each sentence: it leaves room for natural shifts in speed.
-- Anchor: «The ideal range is about 150–170 words per minute.» — ACQ Closer Handbook (2025), Tone, Talk Slower (Speed)
+- Anchor: «The ideal range is about 150–170 words per minute.» — ACQ Closer Handbook (2025), Tone, Talk Slower
 
 #### 09.6. The prospect does four fifths of the talking
 - **Rule:** When reviewing a call, check that you spoke about a fifth of it — on a close that goes perfectly and takes fifteen minutes, about three minutes yours and twelve the prospect's (ACQ Closer Handbook, 2025); a larger share means you are talking too much.
 - Why it works: At 150–170 words per minute a 500-word script takes just over three minutes (09.5), so any talk beyond that share is the closer's own.
 - Bad → Good: Occupying most of the call with your own talking → a fifteen-minute close split twelve minutes to the prospect and three to you.
 - When not to apply: The figure describes a call that goes perfectly on the closer's side; it is a measure for reviewing your own call length and talk ratio.
-- Anchor: «if a call goes perfect on your side and takes 15 minutes to close, then the prospect spoke for 12 minutes and you spoke for three.» — ACQ Closer Handbook (2025), Tone, Talk Slower (Speed)
+- Anchor: «if a call goes perfect on your side and takes 15 minutes to close, then the prospect spoke for 12 minutes and you spoke for three.» — ACQ Closer Handbook (2025), Tone, Talk Slower
 
 #### 09.7. Pauses and pitch: (…) (.) (—) and (?)
 - **Rule:** Deliver the script's tone marks as printed: (…) a short pause that draws the word out, (.) a medium pause like the end of a sentence, (—) a long pause much longer than you would normally use; and wherever a question mark (?) stands, raise the pitch at the end of that word, whatever its position in the sentence.
 - Why it works: Pauses focus attention on what you just said and longer pauses focus more, so the more attention a word gets the more important it becomes; a group of words does not become a question by itself — the rising pitch is what signals that you asked for information, and it packs many words into one.
-- Bad → Good: The fit line of the introduction, with pauses after "fit", "and" and "if so", says "we will make you an offer only if you are a fit" without the closer ever saying it, as obvious as screaming it while staying professional and chill; the drill that proves it writes one sentence, "I didn't say he hit his wife", seven times with the pause after a different word, and the meaning changes each time.
+- Bad → Good: The fit line of the introduction — I just want to make sure our product is a fit... And — if so — I'm happy to walk you through it — with its pauses after "fit", "and" and "if so", says "we will make you an offer only if you are a fit" without the closer ever saying it, as obvious as screaming it while staying professional and chill; the drill that proves it writes one sentence, "I didn't say he hit his wife", seven times with the pause after a different word, and the meaning changes each time.
 - When not to apply: Long pauses will not feel natural at first, which the author calls normal; the longest pause of all goes after the buying question (09.8).
 - Anchor: «We use three types of pauses. Short, medium, and long:» — ACQ Closer Handbook (2025), Tone; notation repeated ACQ Closing Script
 
@@ -62,7 +62,7 @@ Getting the prospect onto the call, no-shows and pipeline work are in sheet 08; 
 - Why it works: If the prospect is not forced to address the buying question head on, they will avoid it; across five mega studies a pause of 8+ seconds after the ask raised close rates by 23 to 40%.
 - Bad → Good: Filling the silence after the buying question, which the author says loses up to 40% of deals → Drop Price & STFU: state the price, then stop talking (example — ACQ Closer Handbook, Tone, Bottom Line).
 - When not to apply: No special caveats in the source.
-- Anchor: «Five mega studies by Harvard, UCLA, and other fancy places showed a 23 to 40% increase in close rates by pausing for 8+ seconds after asking for the sale.» — ACQ Closer Handbook (2025), Tone, When You Don't Talk (Pauses)
+- Anchor: «Five mega studies by Harvard, UCLA, and other fancy places showed a 23 to 40% increase in close rates by pausing for 8+ seconds after asking for the sale.» — ACQ Closer Handbook (2025), Tone, When You Don't Talk
 
 ## Introduction
 
@@ -122,7 +122,7 @@ Getting the prospect onto the call, no-shows and pipeline work are in sheet 08; 
 - Why it works: You are only sharing what you learned and making sure they agree, and that agreement is what the offer is then built on.
 - Bad → Good: Three agencies tried, $50K spent, leads that did not convert, hesitant to invest again → "So it sounds like the real issue isn't just vendors, ads, and leads - it's that you need an entirely new marketing and sales process." → "Does that sound right?"
 - When not to apply: No special caveats in the source.
-- Anchor: «Once you’ve completed your Pain Cycles, you need to stack the pain. To stack the pain, get your Recaps together and say them all again.» — ACQ Closer Handbook (2025), Discovery, Final Recap (Stacking the Pain)
+- Anchor: «Once you’ve completed your Pain Cycles, you need to stack the pain. To stack the pain, get your Recaps together and say them all again.» — ACQ Closer Handbook (2025), Discovery, Final Recap
 
 ## The offer
 
@@ -150,7 +150,7 @@ Getting the prospect onto the call, no-shows and pipeline work are in sheet 08; 
 #### 09.20. Plug and chug: nothing invented on the call
 - **Rule:** Before close calls, write out your labels, solutions, assurances and benefits, so that during the offer you only plug the prospect's problems into them and compose nothing live.
 - Why it works: Prospects change but the solutions stay the same; improvising risks saying something dumb, wrecking your tone, or both.
-- Bad → Good: Improvising labels, assurances or benefits during the call → preparing them in advance and plugging them in.
+- Bad → Good: No example in the source; the plugged-in wording of one mapped problem is the example of 09.18.
 - When not to apply: No special caveats in the source.
 - Anchor: «With proper preparation you need only to “plug and chug”. You should never have to come up with anything on the fly and risk saying something dumb, screwing up your tone, or both.» — ACQ Closer Handbook (2025), Offer
 
@@ -219,7 +219,7 @@ Getting the prospect onto the call, no-shows and pipeline work are in sheet 08; 
 #### 09.29. Money: the cost of the problem against the cost of the solution
 - **Rule:** Answer a money objection — the prospect cannot or will not pay the price — by first isolating it (if they had the money today, would anything else stop them from starting?) and then showing how much the problem costs compared with the solution, working from facts such as monthly cash flow and cash on hand, with a recap in between.
 - Why it works: The hypothetical proves money is the only objection left before any work is done on it, and from there money is a matter of facts rather than feelings.
-- Bad → Good: "It's really expensive" → agree it is a lot and make that the reason it will work — a high price makes the buyer care and act; would a $500 version even seem valuable? — add a Warren Buffett line on price versus value, ask whether they see the value, and close; "I don't know if I see the value" → ask what the free content they already consumed has done for them: growth proves the source works and the product is its tactical version, no growth means they could not apply it, which the product supplies — both branches end in an ask (example — ACQ Closer Handbook, Money Objections).
+- Bad → Good: "It's really expensive" → agree it is a lot and make that the reason it will work — a high price makes the buyer care and act; would a $500 version even seem valuable? — add a line on price against value that the author attributes to Warren Buffett (its wording is not carried here), ask whether they see the value, and close; "I don't know if I see the value" → ask what the free content they already consumed has done for them: growth proves the source works and the product is its tactical version, no growth means they could not apply it, which the product supplies — both branches end in an ask (example — ACQ Closer Handbook, Money Objections).
 - When not to apply: When every payment route has been offered and refused, stop pushing payment and book the next meeting (09.27) — the author's stop condition on money, against looping until the buy; payment plans and downsells are in sheet 11.
 - Anchor: «#2 Money - The prospect says they are not able or not willing to pay the price.» — ACQ Closer Handbook (2025), Objections
 

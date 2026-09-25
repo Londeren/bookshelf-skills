@@ -92,7 +92,7 @@ The referral growth equation and the product as the problem when customers do no
 - **Rule:** Twice a year, show customers the full list of what you provide and ask which single item they would keep if everything else were removed, and which single item they would least mind losing if everything else stayed; then do more of what they keep and cut what they would drop.
 - Why it works: The answers reveal the core two or three things the product actually does for them; overwhelm is the number one reason for churn, so retention comes from making sure customers consume the value rather than burying them in it: value per second, not seconds of value.
 - Bad → Good: A friend's $500k-per-month newsletter had its lowest churn while delivering two things, one Q&A call a month held until every question was answered and one long physical newsletter a month; everything he added after that, starting with weekly calls, increased churn, and Gym Launch is on its 10th version, each shorter and simpler than the last (example — Retention Playbook, Provide On-Going Value To Get On-Going Customers).
-- When not to apply: No special caveats in the source.
+- When not to apply: No special caveats in the source; the cut to the core two or three deliverables that follows is 13.22.
 - Anchor: «removed everything on this list but one, what would you want to keep the most?” and fol-» — $100M Playbook: Retention (2025), Churn Checklist #8
 
 ## Community and bad customers
@@ -117,14 +117,14 @@ The referral growth equation and the product as the problem when customers do no
 - **Rule:** Let customers who want to stay longer pay to stay longer, in one of three forms: an annual billing option priced at "buy 10 months get 2 free", a big one-time up-front payment with small monthly payments, or a founder rate (a discount for the business owner, starting at 50% off); price the annual option above what the average customer now spends over their stay, and at buy 10 get 2 free when the average stay runs past 12 months.
 - Why it works: Paying for a longer stay makes customers stay longer: those who take the annual option stay a full year, which extends the average stay per customer; to raise annual take-up without removing the monthly option, make the annual discount steeper.
 - Bad → Good: Priced at buy 10 months get 2 free, typically 10–20% of people take the annual option (2025).
-- When not to apply: Making annual the only way to pay decreases sales as well as churn, which sometimes makes more money overall: make it mandatory only where you sell by phone or webinar, and in website checkout offer it alongside monthly; offer a founder rate only while the gross margins are still there.
+- When not to apply: The Pricing playbook's ladder of billing cycles is 13.2, and its take-up figure for an annual option on a page (10–15%) is that playbook's, the 10–20% here the Retention playbook's (2025). Making annual the only way to pay decreases sales as well as churn, which sometimes makes more money overall: make it mandatory only where you sell by phone or webinar, and in website checkout offer it alongside monthly; offer a founder rate only while the gross margins are still there.
 - Anchor: «front with a smaller monthly. Alternatively, create a founders price which incentivizes people» — $100M Playbook: Retention (2025), Churn Checklist #6: Add Annual Payment Options
 
 #### 14.16. Big head, long tail
 - **Rule:** Match the pricing model to the business model: when the offer carries both one-time and ongoing value, charge a big one-time fee priced on the one-time value (education, implementation or setup) and a small recurring fee priced on the consumable value, and sell the two together in one purchase, never the recurring fee as a second sale.
 - Why it works: Each part is appropriately priced, the recurring base keeps stacking, the upsell rate is likely high, and the price anchor between the big first purchase and the small recurring one is what drives the retention.
 - Bad → Good: Big one-time fee first, small recurring fee sold separately afterwards, and the price anchor is lost → $6,800 up front for education or setup with $199 a month for the community and everything after in the same purchase, where 30 months of the $199 lifts LTV from $6,800 to $12,800 (2025).
-- When not to apply: The head needs a genuine one-time value such as education or setup to be priced on; the recurring part is priced to the consumable value alone, which may be far less. The Lost Chapters' version, initiation fees and up-front commitment as the barrier to exit, is 12.29.
+- When not to apply: The head needs a genuine one-time value such as education or setup to be priced on; the recurring part is priced to the consumable value alone, which may be far less. The Lost Chapters' version, initiation fees and up-front commitment as the barrier to exit, is 12.29; the Pricing playbook's billing rule behind it is 13.3.
 - Anchor: «Example: I call this a “big head, long tail” where you might charge $6,800» — $100M Playbook: Retention (2025), Churn Checklist #6: Add Annual Payment Options
 
 ## Saving cancellations
@@ -146,7 +146,7 @@ The referral growth equation and the product as the problem when customers do no
 ## Referrals: give more value
 
 #### 14.19. Six Ways To Get More Referrals By Giving More Value
-- **Rule:** Before and alongside any referral ask, build goodwill through the six ways, each mapped onto a part of an ad: Call Outs → Sell Better Customers (14.20); Dream Outcome → Set Better Expectations (14.21); Increase Perceived Likelihood of Achievement → Get More People Better Results (14.22); Decrease Time Delay → Get Faster Results (14.23); Decrease Effort and Sacrifice → Keep Making Your Stuff Better (14.25); Call to Action → Tell Them What To Buy Next.
+- **Rule:** Before and alongside any referral ask, build goodwill through the six ways, each mapped onto a part of an ad: Call Outs → Sell Better Customers (14.20); Dream Outcome → Set Better Expectations (14.21); Increase Perceived Likelihood of Achievement → Get More People Better Results (14.22); Decrease Time Delay → Get Faster Results (14.23); Decrease Effort and Sacrifice → Keep Making Your Stuff Better (14.25); Call to Action → Tell Them What To Buy Next, which the source names without elaborating; the nearest rules are the next offer (11.1) and the ascend milestone (14.8).
 - Why it works: The difference between price and value is goodwill; lots of goodwill creates word of mouth, and word of mouth means referrals; price can only be lowered so far for so long, so the lever is giving more value, which on its own does a fantastic job of getting referrals.
 - Bad → Good: No example in the source.
 - When not to apply: No special caveats in the source.
@@ -185,7 +185,7 @@ The referral growth equation and the product as the problem when customers do no
 - Why it works: People are likelier to show up to appointments you scheduled, you have the best chance of scheduling one while you are with them in real time, and a customer left in no man's land does not know what happens next.
 - Bad → Good: In an insurance company the author bought, prospects dropped off between the first and the second call while reps built and sent qualified plans in between, lots of work for low return; the one change, BAMFAM, never ending a call with "we will circle back later", made second-call show rates skyrocket and sales rise (example — Lead Nurture Playbook, Pillar IV: Volume, booking the next appointment at the current one).
 - When not to apply: No special caveats in the source; the move is spelled out for the setter in 08.18, for the closer in 09.27 and for the upsell in 11.4.
-- Anchor: «a slick saying from a public CEO friend of mine - BAMFAM:» — $100M Leads (2023), #1 Customer Referrals - Word of Mouth, Decrease Time Delay (the author credits a public CEO friend for the saying)
+- Anchor: «a slick saying from a public CEO friend of mine - BAMFAM:» — $100M Leads (2023), #1 Customer Referrals - Word of Mouth, Decrease Time Delay
 
 #### 14.25. Decrease Effort and Sacrifice → Keep Making Your Stuff Better
 - **Rule:** Run a monthly loop on the product: find the most common problem from customer service data, surveys and reviews; design the fix with feedback from the customers who made the product work despite that problem; build it into the product; give the new version to a small group of struggling customers; if the next round of feedback shows the problem solved, roll it out to everyone, otherwise go back to the fix; then take the next most common problem, and never stop.
@@ -226,7 +226,7 @@ The referral growth equation and the product as the problem when customers do no
 
 #### 14.30. The Referral Process
 - **Rule:** Right after closing and collecting payment, and whenever a customer opens a text thread with anything positive, ask for referrals in four steps: compliment them on being amazing to work with; ask which people as successful as they are they would want to bring along, a second compliment that also improves their experience; on a yes, have them open a group chat and give them the exact words to paste; after one introduction, ask for more. If the call runs out of time, carry the ask over to text.
-- Why it works: Referrals take the least work per sale and give the highest return on time; business owners are not offended by the ask, especially when it comes with a compliment, and a customer who texts good news wants you to sell them.
+- Why it works: Referrals take the least work per sale and give the highest return on time (the author's own figures: one extra deal a day and over 30% of sales from referrals, 2025); business owners are not offended by the ask, especially when it comes with a compliment, and a customer who texts good news wants you to sell them.
 - Bad → Good: Skipping the ask for fear of sounding like a douche → straight after payment: "you're the exact type of business owner we love to work with", then the ask for people as successful as them, backed by a reason (a few spots left on that date), then the group text that names the event, the invitation and the rep and ends with "I'll let you guys take it from here", then "anyone else come to mind?" (2025).
-- When not to apply: One extra deal a day and over 30% of sales from referrals are the author's own figures (2025).
+- When not to apply: No special caveats in the source.
 - Anchor: «Asking for referrals gets you the simplest, cheapest, fastest, easiest, highest-converting opportunities.» — ACQ Closer Handbook (2025), Referrals, Referral Process

@@ -24,7 +24,7 @@ Price as positioning of the offer (charge what it is worth, never the second che
 - **Rule:** When an offer holds both one-time value and ongoing value, bill the one-time part as a one-time fee and the ongoing part as a separate, smaller recurring fee, and never turn something with one-time value into a recurring subscription.
 - Why it works: Sold as one price, the one-time part ends up underpriced and the ongoing part overpriced; the day after someone learns something, access to that information is worth close to zero, so a customer still paying a price set for not knowing it stops paying, and pricing has to follow the value actually created.
 - Bad → Good: Information and accountability sold together as one price → a one-time fee for access to the information plus a smaller ongoing fee for the accountability.
-- When not to apply: No special caveats in the source.
+- When not to apply: No special caveats in the source; the Retention playbook's big head, long tail (14.16) is the same rule with the two parts sold in one purchase.
 - Anchor: «Match how you bill with how you provide value . One-Time vs On-Going Value Pric-» — $100M Playbook: Pricing (2025), Rules of Pricing I Follow
 
 #### 13.4. Customer Surplus
@@ -53,11 +53,11 @@ Price as positioning of the offer (charge what it is worth, never the second che
 ## Pricing Plays
 
 #### 13.7. The *Instant Profit* Pricing Playbook
-- **Rule:** When you need profit added overnight without changing operations, pick from the ten Pricing Plays, each designed to move conversion minimally if at all: #1 Monthly to 28 Day Billing Cycles (8.3%), #2 Processing Fees & Second Form of Payment (3–4%), #3 Sales Tax (0–10%, 13.8), #4 Annual Price Increases (3–10%, 13.9), #5 Annual Billing (10–15%, 13.2), #6 Round Up (1–3%, 13.10), #7 Annual Renewal Fee On Top Of Monthly (10%, 13.11), #8 Automatic Continuity (10%, 13.12), #9 Ultra High Ticket Anchor (10–15%), #10 Guarantee and Warranty Upsells (5–20%); one play is enough to make more money immediately.
+- **Rule:** When you need profit added overnight without changing operations, pick from the ten Pricing Plays, each designed to move conversion minimally if at all: #1 Monthly to 28 Day Billing Cycles (8.3%, 12.14), #2 Processing Fees & Second Form of Payment (3–4%, 12.15), #3 Sales Tax (0–10%, 13.8), #4 Annual Price Increases (3–10%, 13.9), #5 Annual Billing (10–15%, 13.2), #6 Round Up (1–3%, 13.10), #7 Annual Renewal Fee On Top Of Monthly (10%, 13.11), #8 Automatic Continuity (10%, 13.12), #9 Ultra High Ticket Anchor (10–15%, 11.10), #10 Guarantee and Warranty Upsells (5–20%, 11.5); one play is enough to make more money immediately.
 - Why it works: Stacked, the plays add an estimated 26.8% to 63.8% to revenue, while average U.S. small businesses ran 7–10% net margins in 2024, so a revenue lift of that size multiplies profit several times over.
 - Bad → Good: No example in the source.
 - When not to apply: The percentages are the author's estimates, not measured figures (2025); some plays will not fit a given business; strategies with bigger swings were left out because they need more work, change or risk.
-- Anchor: «I picked these instant profit hacks because they take so little effort and they can instantly» — $100M Playbook: Pricing (2025), The *Instant Profit* Pricing Playbook; the same index at
+- Anchor: «I picked these instant profit hacks because they take so little effort and they can instantly» — $100M Playbook: Pricing (2025), The *Instant Profit* Pricing Playbook
 
 #### 13.8. Pricing Play #3: Sales Tax
 - **Rule:** Where your state or country charges sales tax on what you sell, charge it on top of the agreed price instead of absorbing it: agree the price first, then put the tax on the invoice or at point of sale as its own line item ahead of the total, citing the tax code dry and matter of fact, and if the customer balks, get angrier about the tax than they are.
@@ -90,7 +90,7 @@ Price as positioning of the offer (charge what it is worth, never the second che
 #### 13.12. Pricing Play #8: Automatic Continuity
 - **Rule:** For every front-end product or service, build a stripped-down, near-zero-work, high-margin version of it, price it at 5–20% of the main price, and attach it to the purchase so it starts automatically when the front-end term ends; for one-time sales, fix a date on the back end after which the continuity starts.
 - Why it works: Against the main purchase the continuity price seems small, and sunk cost does the rest: they already spent that much, so they might as well pay a little to keep it; it also builds a pool of low-ticket customers you can remarket to and ascend instead of losing them.
-- Bad → Good: In the author's worked example the continuity adds 32% to LTV and $1800 of profit per customer.
+- Bad → Good: No example in the source; the author gives only the result of his worked example, 32% added to LTV and $1800 of profit per customer (2025).
 - When not to apply: Don't be a sneak: this is not undisclosed or forced continuity, so the buyer agrees to it up front and is told clearly what happens after the time period; continuity discounts are sheet 12.
 - Anchor: «Whatever you sell, you create the most paired down, zero work version of your thing.» — $100M Playbook: Pricing (2025), Pricing Play #8: Automatic Continuity
 
@@ -167,7 +167,7 @@ Price as positioning of the offer (charge what it is worth, never the second che
 - **Rule:** When an ongoing offer churns, cut it to the two or three core things you deliver and make those really good, instead of answering churn with more calls, features and material.
 - Why it works: Overwhelm is the number one reason for churn; retention comes down to making sure customers consume the value rather than burying them in it, which is why each version of Gym Launch got shorter and simpler.
 - Bad → Good: A newsletter business moved to weekly calls and added more material, and churn rose with everything it added → one Q&A call and one physical newsletter a month, the setup that had its lowest churn.
-- When not to apply: No special caveats in the source.
+- When not to apply: No special caveats in the source; the survey that finds the core two or three things is 14.12.
 - Anchor: «Sometimes less is more. There is wisdom in deletion. Decide on the core 2-3 things you deliv-» — $100M Playbook: Retention (2025), Price, Value, And Churn, Provide On-Going Value
 
 #### 13.23. The Crazy Eight
@@ -189,7 +189,7 @@ Price as positioning of the offer (charge what it is worth, never the second che
 - Why it works: Making the bigger or better version the first thing presented routinely produces 20%+ lifts in cash collected upfront and in LTV overall (2025).
 - Bad → Good: Pest control serviced once a month → offer first a prepaid year (12x), service every three weeks (1.33x) or three hours a visit instead of one (3x), then downsell to the standard monthly plan; for a burger, two burgers instead of one or a bigger burger.
 - When not to apply: More often does not apply to physical products.
-- Anchor: «and begin offering it first on your sales calls. Then, downsell your standard offer. You may see» — $100M Playbook: Lifetime Value (2025), #5 Sell More (Increase Quantity) and #6 Sell Better (Increase Quality)
+- Anchor: «and begin offering it first on your sales calls. Then, downsell your standard offer. You may see» — $100M Playbook: Lifetime Value (2025), #5 Sell More (Increase Quantity) and #6 Sell Better
 
 #### 13.26. Downsell only the unqualified
 - **Rule:** Offer a downsell only to prospects who do not qualify for the main offer, judged by money made per person who comes through the door: a quantity downsell (fewer, less often, smaller) or a quality downsell that reaches the same result with a worse experience, built by reversing the quality upsell list (slower responses, fewer locations and hours, more junior staff, more recorded, done with you or do it yourself, less personalization, a weaker or no guarantee).

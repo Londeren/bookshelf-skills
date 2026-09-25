@@ -26,7 +26,7 @@ Open this sheet first in advisor mode: the user describes a situation — few le
 - Anchor: «If you keep hopping from niche to niche, hoping that the market will solve your problems, you deserve to be *niche slapped.*» — $100M Offers (2021), ch. 4 Pricing: Finding The Right Market
 
 #### 01.4. Under $10M a year, niche down; above it, TAM decides
-- **Rule:** A business under $10M per year narrows its audience rather than broadening it; above $10M, whether to broaden depends on how narrow the niche is and on the total addressable market (TAM).
+- **Rule:** A business under $10M per year narrows its audience rather than broadening it; above $10M, broaden — up market, down market or into an adjacent market — only when the niche's total addressable market (TAM) caps the growth.
 - Why it works: a business can only grow to meet its TAM, so beyond that point it may have to go up market, down market or into an adjacent market; but many companies expanded past $30M per year serving a single niche, and an owner at $1M or $3M who thinks he has capped is wrong.
 - Bad → Good: an owner at $1M or $3M a year broadening because the niche feels capped → niching down further, since companies passed $30M a year serving a single niche (2021 figures).
 - When not to apply: the niching advice is bounded by revenue: it holds for the 99.6 percent of readers under $10M per year; above that, TAM decides.
@@ -58,7 +58,7 @@ Open this sheet first in advisor mode: the user describes a situation — few le
 #### 01.8. Four tries or one month, then the next constraint
 - **Rule:** If the current best version of a step cannot be beaten in four tries, or in one month, the work moves to the next constraint.
 - Why it works: beyond that point the effort put into making the step better brings lower and lower returns than the same effort spent elsewhere.
-- Bad → Good: abandoning a constraint on a feeling that it is exhausted → abandoning it on a count of tries and a calendar limit.
+- Bad → Good: No example in the source.
 - When not to apply: No special caveats in the source.
 - Anchor: «running in ]{.calibre3}[four tries (or one month)]{.calibre24}[, we move» — $100M Leads (2023), Core Four On Steroids, Better
 
@@ -151,7 +151,7 @@ Open this sheet first in advisor mode: the user describes a situation — few le
 - Anchor: «By connecting GP and speed with CAC, I see three levels of CFA» — $100M Series: Lost Chapters (2025), Levels of Customer Financed Acquisition
 
 #### 01.21. A good Money Model and a $100M Money Model
-- **Rule:** Rate the money model on the author's three levels: a Money Model is a series of offers; a good one makes more profit from a customer than it costs to get and service them in the first 30 days, which is the bare minimum; a $100M Money Model makes more profit from one customer in the first 30 days than it costs to get and service at least two more, which removes cash as the limit on growth.
+- **Rule:** Rate the money model on two thresholds: it is good when it makes more profit from a customer than it costs to get and service them in the first 30 days, which is the bare minimum; it is a $100M Money Model when it makes more profit from one customer in the first 30 days than it costs to get and service at least two more, which removes cash as the limit on growth; below the first threshold the model fails.
 - Why it works: below the first threshold the business loses money getting customers, which forces it to cut advertising and eventually fail; with so much money made in the first thirty days, the cost of getting more customers is never a problem again, and the business is forced to fix everything else just to keep up.
 - Bad → Good: spending more to acquire a customer than that customer produces in profit and treating it as a normal cost of doing business → one customer producing enough money in less than 30 days to get and service at least two more.
 - When not to apply: the good-model threshold is the bare minimum, not a target.

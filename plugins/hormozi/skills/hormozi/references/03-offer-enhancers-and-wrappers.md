@@ -45,8 +45,8 @@ Attraction offers inside a money model (Win Your Money Back, Giveaway, Decoy, Bu
 
 #### 03.6. Once You're Out, You Can Never Come Back
 - **Rule:** On a capped service level with a small group, tell members that anyone who leaves can never return.
-- Why it works: This type of scarcity makes people think extra hard about leaving.
-- Bad → Good: The author reports it working in his gyms, in a mastermind he was in and in the higher level of Gym Lords.
+- Why it works: This type of scarcity makes people think extra hard about leaving; the author reports it working in his gyms, in a mastermind he was in and in the higher level of Gym Lords.
+- Bad → Good: No example in the source.
 - When not to apply: Works best with small groups; as groups become much bigger the tactic loses some teeth, which the author says from experience.
 - Anchor: «This works best with small groups (like the above example). As groups become much bigger, the tactic loses some teeth» — $100M Offers (2021), ch. 12 Scarcity
 
@@ -76,7 +76,7 @@ Attraction offers inside a money model (Win Your Money Back, Giveaway, Decoy, Bu
 #### 03.10. Exploding Opportunity
 - **Rule:** When the offer exposes the prospect to an arbitrage or a market inefficiency that corrects itself over time, state that decay explicitly in the offer.
 - Why it works: Every second of delay costs the prospect disproportionate gains, which forces a fast decision instead of waiting it out for a better offer.
-- Bad → Good: No example in the source.
+- Bad → Good: No example carried into the skill: the source lists its examples just before the anchor sentence, and none was extracted as a unit.
 - When not to apply: No special caveats in the source.
 - Anchor: «All of these examples show opportunities that decay with time, so if you find yourself in front of an opportunity like this, make sure to emphasize it!» — $100M Offers (2021), ch. 13 Urgency
 

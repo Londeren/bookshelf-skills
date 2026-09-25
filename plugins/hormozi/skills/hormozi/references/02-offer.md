@@ -16,7 +16,7 @@ The money model behind the offer is in sheet 10; pricing plays, price raises and
 #### 02.2. Channel demand, do not create it
 - **Rule:** Build the offer to channel a desire the market already has — the dream outcome prospects already picture, the gap between their current reality and their dreams — through your vehicle; an offer that first has to create demand for itself fails this check.
 - Why it works: Selling anything takes demand, and without a market for the offer nothing that follows works; people's deep desires do not change, so the job is to route existing desire through the offer and the monetization vehicle.
-- Bad → Good: Setting out to create desire for what the business sells → channelling a desire people already have through the offer and the monetization vehicle.
+- Bad → Good: No example in the source.
 - When not to apply: No special caveats in the source.
 - Anchor: «We are not trying to *create* demand. We are trying to *channel* it.» — $100M Offers (2021), ch. 4 Finding The Right Market
 
@@ -97,7 +97,7 @@ The money model behind the offer is in sheet 10; pricing plays, price raises and
 #### 02.13. The five steps of creating a Grand Slam Offer
 - **Rule:** Build the core offer in this order: #1 the prospect's dream outcome; #2 every obstacle they will meet on the way; #3 each obstacle restated as a solution; #4 every way you could deliver each solution; #5a trim to what is highest value and lowest cost to you; #5b stack what remains into one high-value deliverable.
 - Why it works: Working through every problem and every way of solving it yields an offer that cannot be compared to anything else on the market, so the prospect decides on value rather than on price.
-- Bad → Good: One weight-loss offer runs through the steps below: problems in 02.14, solutions in 02.15, delivery vehicles in 02.17, trimming in 02.19 and 02.20, the stack in 02.21.
+- Bad → Good: No example in the source; the weight-loss offer that runs through the steps is worked in 02.14, 02.15, 02.17, 02.19–02.21.
 - When not to apply: The five steps make the core offer only; enhancements (scarcity, urgency, bonuses, guarantees, naming) come after it (see sheet 03).
 - Anchor: «**Step #4:** We figured out all the different ways we could deliver those solutions.» — $100M Offers (2021), ch. 10 Value Offer: Creating Your Grand Slam Offer Part II: Trim & Stack
 
@@ -185,7 +185,7 @@ The money model behind the offer is in sheet 10; pricing plays, price raises and
 #### 02.25. Optimise for money, not for customer count
 - **Rule:** Judge a price or offer decision by the money it makes over the customer's lifetime, not by how many customers it brings; of the prices you have data on, pick the one that makes the most money.
 - Why it works: The objective of a business is making money, not getting people to buy; money is what keeps you in business and able to help people longer.
-- Bad → Good: The price that wins the most buyers → the price in the total return column: the most people converting at the highest total lifetime value (example — Pricing playbook, Three Metrics To Determine value-Driven Pricing).
+- Bad → Good: The price that wins the most buyers → the price in the total return column: the most people converting at the highest total lifetime value (example — Pricing playbook, Three Metrics To Determine value-Driven Pricing; the table itself is 13.5).
 - When not to apply: Holds unless you are running a different short-term strategy.
 - Anchor: «Getting people to buy is NOT the objective of a business. Making money is.» — $100M Offers (2021), ch. 5 Charge What It's Worth
 

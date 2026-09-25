@@ -34,7 +34,7 @@ The thresholds of a good money model, the levels of CFA and what CAC counts are 
 - Why it works: A CRM often doesn't report lifetime transactions and, when it does, the data is frequently wrong, so the author works from gross profit and churn or transactions on the back of a napkin.
 - Bad → Good: A service business with one account rep per 10 clients paying $3,000 a month, reps costing $6,000 a month: $30,000 of monthly revenue per rep minus $6,000 leaves $24,000 of gross profit, an 80% margin, so $2,400 of gross profit per customer; divided by 5% churn that gives an LTGP of $48,000, while a physical product multiplies instead, as in gross profit of $80 times four average transactions.
 - When not to apply: Lifetime transactions are always an estimate: customers keep buying, and the figure rises as the business gets older.
-- Anchor: «Cost = $24,000 My gross margin is $24,000/$30,000 = 80% So my gross profit on a» — $100M Series: Lost Chapters (2025), Lifetime Gross Profit (LTGP)
+- Anchor: «Cost = $24,000 My gross margin is $24,000/$30,000 = 80% So my gross profit on a» — $100M Series: Lost Chapters (2025), Lifetime Gross Profit
 
 ## The back end: value grid and offer stacking
 
@@ -55,7 +55,7 @@ The thresholds of a good money model, the levels of CFA and what CAC counts are 
 #### 10.7. Ultimate Offer Stacking Process
 - **Rule:** After listing every need you can monetize, choreograph the sale so it weaves one of each core offer type in this order: Attract, Up Front Cash, Upsell/Downsell, Continuity, then Continuity #2 and Up Front Cash #2; build it one conversion opportunity at a time, starting with whichever brings in the most money for the least cost.
 - Why it works: The up-front model acquires customers profitably, upsells and downsells get the whales to buy big and the minnows into your world, and continuity creates consistent cash flow; each pass raises the customer's LTV and so what you can spend to acquire them, and a flow that is overwhelming to build at once is not when built one step at a time.
-- Bad → Good: Adding offers and services all at once, a fast track to operational complexity → adding first the single conversion opportunity worth the most money for the least cost, then the next.
+- Bad → Good: No example in the source.
 - When not to apply: Which up-front model, upsell and continuity to use depends on the business and its typical customer-buying journey, and anything that adds complexity had better be worth it.
 - Anchor: «Next, we decide how we are going to choreograph the sales process I use this framework» — $100M Series: Lost Chapters (2025), Advanced Offer Stacking: How To
 

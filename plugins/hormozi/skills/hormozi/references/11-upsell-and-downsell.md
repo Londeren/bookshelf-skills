@@ -29,7 +29,7 @@ The money model, the moment of realization and attraction offers are in sheet 10
 #### 11.4. Book-A-Meeting-From-A-Meeting (BAMFAM)
 - **Rule:** End every appointment by scheduling the next one, so the customer leaves knowing when they will see you next and why.
 - Why it works: The more times you can upsell, the more people you will upsell, and the more people you upsell, the more money you make; the same move on an unclosed sales call is 09.27, and between the first and the second call 08.18.
-- Bad → Good: Letting a customer leave without booking → ending the appointment with the next one scheduled, its reason and time agreed before they go.
+- Bad → Good: No example in the source.
 - When not to apply: No special caveats in the source.
 - Anchor: «by scheduling the next appointment. Don't let them leave without» — $100M Money Models (2025), The Classic Upsell, Important Notes
 
@@ -135,7 +135,7 @@ The money model, the moment of realization and attraction offers are in sheet 10
 #### 11.18. Offer The Same Things In New Ways
 - **Rule:** Build downsells only out of what the business already sells, in new payment terms or new combinations, never out of new products created so that everyone has something to buy.
 - Why it works: Otherwise you create a hundred businesses' worth of products and problems; downselling is less about having 100 products to offer and more about having 100 ways to offer your product.
-- Bad → Good: Creating new products so that everyone has something to buy → limiting downsells to what you've got and offering it in new ways.
+- Bad → Good: One personal training service sold as one, two, three or four sessions per week instead of a new product for every budget (10.37).
 - When not to apply: No special caveats in the source.
 - Anchor: «just think of downselling more like a hundred ways to offer the stuff» — $100M Money Models (2025), Section IV: Downsell Offers, The Rules of Downselling
 
@@ -172,7 +172,7 @@ The money model, the moment of realization and attraction offers are in sheet 10
 #### 11.23. Paycheck dates, re-run declines, built-in upsells
 - **Rule:** Once a payment plan is sold, schedule the payments on the customer's paycheck dates rather than as monthly instalments, re-run a declined card a few times the same day, and periodically offer plan customers the original prepay discount if they clear the balance.
 - Why it works: Most people get paid every two weeks, which boosts 30-day profit far more than monthly payments, and charging on payday means fewer declines; paychecks get deposited at different times, and re-running recoups about a third of declined payments (2025; a step the author learned from John, an early mentor); customers forget they still have the prepay option, and if you incentivize people to pay faster, they pay faster.
-- Bad → Good: Monthly instalments on a fixed date, and a declined card treated as a failed payment → payments on paydays, and the card run again a few times that day.
+- Bad → Good: No example in the source.
 - When not to apply: No special caveats in the source.
 - Anchor: «paid. Fair enough?"* I like scheduling payments off of paychecks since» — $100M Money Models (2025), Payment Plan Downsells, Example Of Payment Plan Downsell Process
 

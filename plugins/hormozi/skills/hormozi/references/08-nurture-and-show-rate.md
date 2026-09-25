@@ -166,7 +166,7 @@ The call itself (Kill Mode: tone, discovery, offer, objections, looping) is shee
 #### 08.22. More than three days out means value messages
 - **Rule:** When a BAMFAM is booked more than three days out, fill the gap with a value-based message (a testimonial, a third-party video review or a value video from YouTube) on top of the texts five minutes after the call, the night before and the morning of.
 - Why it works: A long gap is filled with proof rather than silence, and the five-minute text leaves a positive feeling after the conversation.
-- Bad → Good: No example in the source.
+- Bad → Good: The three texts of a booked follow-up: five minutes after the call, so great talking with you, excited to continue the conversation and potentially do business together, we can help; the night before, looking forward to our meeting tomorrow; the morning of, talk today; and when the meeting is more than three days out, one of a testimonial, a third-party video review or a value video from YouTube (example — ACQ Closer Handbook, ACQ BAMFAM Script).
 - When not to apply: This is the fallback; the target is a meeting inside 72 hours (08.6).
 - Anchor: «Send a value-based message with one of the following:» — ACQ Closer Handbook (2025), ACQ BAMFAM Script, IF BOOKED MORE THAN 3-DAYS
 

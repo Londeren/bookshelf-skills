@@ -9,7 +9,7 @@ The LTGP:CAC threshold, its two levers, client financed acquisition and the ques
 - **Rule:** Start paid ads on one platform, and pick it only when all four hold: you have used it yourself as a consumer and got value from it, you can target people on it interested in your stuff, you know how to format ads specific to it, and you have the minimum amount of money to place an ad.
 - Why it works: Having used the platform as a consumer gives you some idea how it works, and the four conditions are what stays constant while the platforms themselves keep changing.
 - Bad → Good: No example in the source.
-- When not to apply: No exception in the source; the author's only caveat is that platforms change all the time while these principles stay the same.
+- When not to apply: No special caveats in the source.
 - Anchor: «what I look for in a platform I want to advertise on:» — $100M Leads (2023), #4 Run Paid Ads Part I, Step 1
 
 #### 06.2. Lookalike audience: the list in order of quality
@@ -29,7 +29,7 @@ The LTGP:CAC threshold, its two levers, client financed acquisition and the ques
 #### 06.4. An unprofitable ad: check who saw it before the copy
 - **Rule:** When an ad is not profitable, check first whether it reached enough of the right people before treating it as a copy or creative failure.
 - Why it works: Paid ads go to colder, lower-trust audiences, so a smaller percentage of people respond; putting the offer in front of more of the right people is what gets over that hurdle and keeps ads efficient.
-- Bad → Good: Treating an unprofitable ad as a copy or creative failure → putting the offer in front of more of the right people.
+- Bad → Good: No example in the source.
 - When not to apply: The cause is the audience "most of the time", not always; spend that was profitable and stops being profitable as it scales is read as a wall in ad quality instead (06.22).
 - Anchor: «in front of more people. And if an ad isn't profitable, most of the» — $100M Leads (2023), #4 Run Paid Ads Part I: Making An Ad
 
@@ -85,7 +85,7 @@ The LTGP:CAC threshold, its two levers, client financed acquisition and the ques
 - Anchor: «away based on the platform, but keep the callouts (the first few» — $100M Leads (2023), #4 Run Paid Ads Part I, Step #3
 
 #### 06.12. The ad does not sell
-- **Rule:** The ad and its landing page do not sell the offer: they ask whether the person is interested, and what the person gives in exchange is contact information; after they take the action, get their contact information (the author's default mechanism is a simple landing page).
+- **Rule:** Make the ad and its landing page ask whether the person is interested rather than sell the offer, and take contact information in exchange: after they take the action, get their contact information (the author's default mechanism is a simple landing page).
 - Why it works: A person who is interested gives you a way to tell them more, and at that moment becomes an engaged lead.
 - Bad → Good: Selling the offer inside the ad or on the landing page → asking whether they are interested and taking their contact information, the permission to contact them, in exchange.
 - When not to apply: No special caveats in the source.
@@ -189,6 +189,6 @@ The LTGP:CAC threshold, its two levers, client financed acquisition and the ques
 #### 06.26. Double down on the winners
 - **Rule:** When a few ads wildly outperform the rest, reuse their hooks to make more variations instead of moving on to something new, and do not retire a winning ad because you are tired of it.
 - Why it works: In the beginning you cannot know which ads will hit, so you make many variations for the different segments of the market; and new customers enter the market every day, so a repeated winner is still their first exposure to it.
-- Bad → Good: Retiring ads because the advertiser is bored of them → repeating the same stuff and making even more winners from the same hooks.
+- Bad → Good: No example in the source.
 - When not to apply: No special caveats in the source.
 - Anchor: «And when you find those, double down» — $100M Playbook: GOATed Ads (2025), Scale It

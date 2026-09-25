@@ -43,7 +43,7 @@ Making the first ad (callout, What-Who-When, CTA, budgets) and the hook assembly
 
 #### 07.6. "New" means new to the viewer
 - **Rule:** When an ad needs a fresh version, make something new to the viewer, a permutation of what already converted, rather than an ad started from zero.
-- Why it works: Buyers call something new far sooner than its maker does (the author's lesson from the Henry Ford story), so a variation reads as new while keeping what made the original convert.
+- Why it works: Buyers call something new far sooner than its maker does, so a variation reads as new while keeping what made the original convert.
 - Bad → Good: Treating a new ad as one built from scratch → the highest-converting Skool ad for several months (a man in a Skool cap with question marks around his head, over $100,000 spent on that one creative) permuted into neon, plexus, purple, rainbow, retro, white and yellow versions and versions with a different prop, each performing like the original.
 - When not to apply: Not a reason to drop step 4 of 07.1: the other 20% of effort still goes into totally new ideas.
 - Anchor: «New does not mean “start from zero”. New means new to the viewer.» — ACQ Advertising Handbook (2025), Part I What The Ad Kaleidoscope Is
