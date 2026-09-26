@@ -7,6 +7,7 @@ Skills for Claude built from books. Each one carries a single author's method, d
 | Plugin | What it does | Docs |
 |---|---|---|
 | **glavred-skill** | Reviews and edits social media posts by the method of Maxim Ilyahov. Reports findings level by level (meaning, delivery, wording, format) with a quote from the post and the rule behind each one, or rewrites the post keeping the author's facts and voice. Works in Russian | [plugins/glavred-skill](plugins/glavred-skill/README.md) |
+| **hormozi** | Diagnoses a business by the method of Alex Hormozi: what is broken and what to fix first, in at most three steps with the rule behind each. Reviews an offer, an ad, a sales script, pricing, a money model, lead nurture or retention with a quote from the material and the rule behind each finding, or rewrites the material keeping the user's facts and numbers. Answers in the language of the request | [plugins/hormozi](plugins/hormozi/README.md) |
 
 Every method is a plugin of its own, so you install only the ones you need.
 

@@ -1,0 +1,21 @@
+{
+  "name": "hormozi",
+  "displayName": "Hormozi",
+  "version": "0.1.0",
+  "description": "Diagnoses a business and reviews its offer, ads, sales script, pricing and money model by the method of Alex Hormozi",
+  "author": {
+    "name": "Londeren",
+    "url": "https://github.com/Londeren"
+  },
+  "homepage": "https://github.com/Londeren/bookshelf-skills/tree/main/plugins/hormozi",
+  "repository": "https://github.com/Londeren/bookshelf-skills",
+  "license": "MIT",
+  "keywords": [
+    "marketing",
+    "sales",
+    "pricing",
+    "offers",
+    "lead-generation",
+    "hormozi"
+  ]
+}
