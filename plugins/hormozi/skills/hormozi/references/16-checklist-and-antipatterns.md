@@ -60,7 +60,7 @@ The business as an asset:
 
 ## The review by material
 
-Read the material against its sheet in this order; findings quote the material and cite the rule.
+Read the material against its sheet in this order; each finding quotes the material and says what is wrong in the substance of the rule, whose number goes into the basis block.
 
 - **An offer:** market and avatar 02.1–02.6; the Value Equation 02.7–02.12; the five steps and the stack 02.13–02.22; price 02.23–02.30; scarcity, urgency, bonuses, guarantees 03.3–03.22; name and wrapper 03.23–03.33.
 - **An ad or a creative:** platform and audience 06.1–06.4; callout, value, CTA 06.5–06.14; hooks and awareness 06.19–06.26; the framework it follows 07.7–07.26; the rules across frameworks 07.27–07.35; the checklist 07.36.
@@ -73,11 +73,11 @@ Read the material against its sheet in this order; findings quote the material a
 
 ## Before handing over
 
-- [ ] Every step and every finding cites a rule as `NN.M`; a diagnosis without a rule is an opinion.
+- [ ] Every step, finding and change was written from a rule picked first and has its line in the basis block that closes the answer — its label and the `NN.M` of the rules it rests on, or "no rule" in plain words — and each line's rule says what its step says; a diagnosis without a rule is an opinion.
 - [ ] At most three steps in the advisor's answer; at most seven findings in a review; the constraint is named, not the whole list.
-- [ ] Every threshold carries the year of its source and the author's own caveat where he gave one.
+- [ ] The body carries no rule number, no source title, no year the decision does not need, no "the method" without Hormozi's name, and no caveat that changes nothing for the reader: a caveat is applied as a condition or withdraws the finding, a soft figure is marked by a word ("a benchmark of"), a suggestion of the answer's own is marked where it stands.
 - [ ] The user's facts, prices and names are unchanged; every derived number shows its inputs; what is missing is marked `[to clarify: …]`, not filled in.
-- [ ] Nothing in the answer says what the sheets do not carry; the boundaries below were checked and no finding lands on one of them.
+- [ ] Nothing in the answer is given as Hormozi's that the sheets do not carry; the boundaries below were checked and no finding lands on one of them.
 
 ## Where the method stops: boundaries the author sets
 

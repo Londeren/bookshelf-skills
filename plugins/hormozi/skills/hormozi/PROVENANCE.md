@@ -107,3 +107,38 @@ Without the two off-topic cases, which score the same in both arms by design: 64
 Agent runs of phase 4: 77, all on Opus (32 case runs, 9 graders, 5 rule-fit graders, 24 trigger runs, 5 rerun case runs, 2 rerun graders). The build as a whole, phases 0–4: 167.
 
 The working build (the directory `pipeline/hormozi/` of the repository [Londeren/bookshelf-skills](https://github.com/Londeren/bookshelf-skills): the source overview and map, the catch of extraction, the validation with the reasons for every rejection, the sheet map) is published with the skill. When the skill is reworked, what is missing is raised from there.
+
+## Rework of the answer shape (2026-09-28): version 0.2.0
+
+**Why.** The first consumer read a long document produced with the skill and found it hard to read: 96 rule numbers in 3,845 words, source years, the author's caveats retold, "the method says" as a refrain, and "my opinion, not the method's" with no method named. The skill asked for it: a diagnosis without a rule number was "an opinion", every threshold carried its year and its caveat, and the check before handing over hunted for missing numbers. The pipeline asked for the same: its template for the output rules said "explain by a rule", its numbering note said the answers point at rules by number, and its evals rewarded numbers in the body.
+
+**What changed.** Book-to-skill 1.1.0 (Londeren/claude-plugins, commit 97cb052) gained a section on the output rules of a generated skill. A separate Opus subagent rebuilt by that section alone the preamble's limits where they speak about the answer, the order of work, the check before handing over, the output rules and the section "Before handing over" of sheet 16. The body of an answer now carries the substance of the rules. Their numbers stand in a basis block that closes the answer, one line per step, finding or change. The skill's own advice is marked "not Hormozi's", caveats are applied rather than retold, a year appears only where it changes the decision, and a request for the basis reopens the sheets and quotes them. The core, the routing table, the sources, the rules of the sheets and the description are unchanged.
+
+Edited by hand after the rebuild:
+- The note on the video-drawn rules of sheet 15 is restored as one plain sentence, where the rebuild had reduced it to one word. It is the phase 4 fix, reworded rather than dropped, and it now names the rules it covers.
+- The opening scope line says "Hormozi's method".
+- The paragraph on reading a rule says that the figures in the sheets carry their year.
+- The check before handing over has six questions, one of them on an unmarked suggestion, a forecast or an extra suggestion inside a step included.
+
+**The check.** The eval set was not rerun, because its assertions ask for the old shape: a rule number at every step, a year with every threshold, the transcript line for sheet 15. Instead three of its cases, one per mode (S-01, M-01, M-04), were run on 0.1.1 and on the rebuilt skill, one run each, and graded blind with the assertions reworded to be neutral to the shape. The record is `pipeline/hormozi/evals/2026-09-28-answer-shape/`.
+
+| | 0.1.1 | rebuilt |
+|---|---|---|
+| Rule numbers in the body (S-01, M-01, M-04) | 23, 50, 35 | 0, 0, 0 |
+| "метод" in the body | 5, 2, 1 | 0, 0, 0 |
+| Source years in the body | 6, 1, 4 | 0, 0, 0 |
+| Assertions passed | 12 of 15 | 12 of 15 |
+| Rules not in the sheets | 0 | 0 |
+| Basis pairs that fit their step | not measured | 57 of 57 |
+
+- **S-01.** The rebuilt answer gives the result of the diagnosis, "the need is there, the money is not, so it is the advertising", without putting the one question first. The assertion asks for the question, so the answer loses one point on it.
+- **M-01 and M-04.** In M-01 both arms miss the reason why of the discount. In M-04 both arms name the waived loyalty discount of 3 600 ₽.
+- **The basis on request.** Asked for the basis of S-01, the rebuilt skill quoted 7 Rule fields and 7 anchors verbatim, all found in the sheets. It said it had checked the sheets and not the books, and it corrected three places where its first answer had given its own suggestion unmarked. The question on unmarked suggestions in the check before handing over came from that finding.
+
+**The gate.** The eval set was not rerun for 0.2.0, and the smoke above stands in for it. The user accepted this waiver on 2026-09-28, before the branch reached `main`.
+
+**What the check did not cover.**
+- Three cases, one sample per arm. Thirteen cases, the trigger cases and the tuning set were not rerun; the description is unchanged, so triggering was not measured again.
+- The hand edits above were made after the smoke and were not run. No smoke case touches sheet 15, so the restored note was not exercised either.
+- Readability was measured by counts and by reading, not by a grader.
+- The assertions of the eval set that ask for the old shape are not rewritten, since that file records the build of 0.1.x. A full rerun of 0.2.0 needs them reworded first.
