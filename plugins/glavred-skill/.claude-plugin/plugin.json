@@ -1,7 +1,7 @@
 {
   "name": "glavred-skill",
   "displayName": "Главред",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Ревью и редактура постов для соцсетей по методу Максима Ильяхова",
   "author": {
     "name": "Londeren",
